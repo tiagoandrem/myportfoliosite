@@ -1,8 +1,9 @@
 {
-  "name": "myportfoliosite",
+  "name": "app.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "express": "^4.17.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-mdl": "^1.11.0",
@@ -33,5 +34,17 @@
   },
   "devDependencies": {
     "eslint": "^5.16.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoandrem/myportfoliosite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagoandrem/myportfoliosite/issues"
+  },
+  "homepage": "https://github.com/tiagoandrem/myportfoliosite#readme"
 }

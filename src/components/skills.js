@@ -9,7 +9,7 @@ class Skills extends Component {
           <div style={{ display: "flex" }}>
             {this.props.skill}{" "}
             <ProgressBar
-              style={{ margin: "auto", width: "75%" }}
+              style={{ margin: "auto", width: "75%", indent: "50px" }}
               progress={this.props.progress}
             />
           </div>

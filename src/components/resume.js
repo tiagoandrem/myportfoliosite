@@ -35,7 +35,7 @@ class Resume extends Component {
             <h5>Email</h5>
             <p>tiagoandrem@hotmail.com</p>
             <h5>Web</h5>
-            <p>www.mysite.com</p>
+            <p>www.tiagoandrem.pt</p>
             <hr style={{ borderTop: "3px solid #833fb2", width: "50%" }} />
           </Cell>
           <Cell className="resume-right-col" col={8}>
@@ -100,30 +100,30 @@ class Resume extends Component {
               "
             />
             <hr style={{ borderTop: "3px solid #e22947" }} />
-            <h2>Skills</h2>
-            <Skills skill="Java" progress={30} />
+            <h2>Skills </h2>
+            <Skills skill="Java----------->" progress={30} />
 
-            <Skills skill="C#" progress={35} />
+            <Skills skill="C#------------->" progress={35} />
 
-            <Skills skill="C&C++" progress={20} />
+            <Skills skill="C&C++------->" progress={20} />
 
-            <Skills skill=".NET" progress={30} />
+            <Skills skill=".NET---------->" progress={30} />
 
-            <Skills skill="JavaScript" progress={20} />
+            <Skills skill="JavaScript--->" progress={20} />
 
-            <Skills skill="HTML/CSS" progress={20} />
+            <Skills skill="HTML/CSS-->" progress={20} />
 
-            <Skills skill="React" progress={20} />
+            <Skills skill="React--------->" progress={20} />
 
-            <Skills skill="NodeJs" progress={20} />
+            <Skills skill="NodeJs------->" progress={20} />
 
-            <Skills skill="Google FireBase" progress={50} />
+            <Skills skill="FireBase----->" progress={50} />
 
-            <Skills skill="SQL" progress={30} />
+            <Skills skill="SQL----------->" progress={30} />
 
-            <Skills skill="MYSQL" progress={30} />
+            <Skills skill="MYSQL------>" progress={30} />
 
-            <Skills skill="Vuforia" progress={40} />
+            <Skills skill="Vuforia------->" progress={40} />
           </Cell>
         </Grid>
       </div>
